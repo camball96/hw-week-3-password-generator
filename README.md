@@ -7,5 +7,6 @@ Password generator must include the following;
  *Uppercase
  *Numeric
  *Special characters
+ *Amount of characters
  
  Once selected, password will be generated on click to include the selected variables.
